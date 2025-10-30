@@ -1,4 +1,3 @@
-# js/descriptions.js
 let writtenTweets = [];
 
 function clearTable() {
