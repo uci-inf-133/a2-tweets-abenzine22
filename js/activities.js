@@ -1,4 +1,3 @@
-# js/activities.js
 let activity_vis_spec;
 let distance_vis_spec;
 let distance_vis_agg_spec;
