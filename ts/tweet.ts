@@ -1,4 +1,3 @@
-# ts/tweet.ts
 export type TweetSource = 'completed_event' | 'live_event' | 'achievement' | 'miscellaneous';
 
 export default class Tweet {
