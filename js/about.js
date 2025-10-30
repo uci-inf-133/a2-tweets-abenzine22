@@ -1,4 +1,3 @@
-# js/about.js
 let tweet_array = [];
 
 function formatDate(d) {
